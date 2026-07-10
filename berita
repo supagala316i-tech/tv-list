@@ -4,15 +4,3 @@ CNN Indonesia|https://www.cnnindonesia.com/rss
 Tempo.co|https://rss.tempo.co/
 Sindonews|https://www.sindonews.com/feed
 Okezone|https://sindikasi.okezone.com/index.php/rss/0/RSS2.0
-        const berita = [...xml.querySelectorAll('item')].slice(0,5)
-            .map(i => `📰 ${i.querySelector('title').textContent.trim()}`)
-            .join('    ✦    ');
-        el.textContent = berita;
-    } catch {
-        el.textContent = '📰 Selamat datang • Fitur berita berjalan lancar • Terima kasih telah menggunakan layanan ini';
-    }
-}
-ambilDanTampilkanBerita();
-setInterval(ambilDanTampilkanBerita, 15 * 60 * 1000);
-</script>
-w
