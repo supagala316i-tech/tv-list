@@ -1,39 +1,9 @@
-<style>
-.baki-teks-berjalan {
-    height: 24px;
-    background: rgba(22,22,30,0.9);
-    backdrop-filter: blur(4px);
-    overflow: hidden;
-    width: 100%;
-}
-.teks-berjalan {
-    display: inline-block;
-    white-space: nowrap;
-    padding-left: 100%;
-    font-size: 12px;
-    color: #ffdd77;
-    font-weight: 500;
-    animation: jalanHalusSempurna 60s linear infinite;
-}
-@keyframes jalanHalusSempurna {
-    from { transform: translateX(0); }
-    to { transform: translateX(-100%); }
-}
-</style>
-
-<div class="baki-teks-berjalan">
-    <div class="teks-berjalan" id="teks-berita">📰 Memuat berita...</div>
-</div>
-
-<script>
-async function ambilDanTampilkanBerita() {
-    const el = document.getElementById('teks-berita');
-    try {
-        const proxy = 'https://api.allorigins.win/raw?url=';
-        const url = encodeURIComponent('https://feeds.bbci.co.uk/indonesia/rss.xml');
-        const res = await fetch(proxy + url, { cache: 'no-store' });
-        if (!res.ok) throw new Error();
-        const xml = new DOMParser().parseFromString(await res.text(), 'text/xml');
+BBC Indonesia|https://feeds.bbci.co.uk/indonesia/rss.xml
+ANTARA News|https://www.antaranews.com/rss/terkini.xml
+CNN Indonesia|https://www.cnnindonesia.com/rss
+Tempo.co|https://rss.tempo.co/
+Sindonews|https://www.sindonews.com/feed
+Okezone|https://sindikasi.okezone.com/index.php/rss/0/RSS2.0
         const berita = [...xml.querySelectorAll('item')].slice(0,5)
             .map(i => `📰 ${i.querySelector('title').textContent.trim()}`)
             .join('    ✦    ');
