@@ -1,24 +1,26 @@
 {
   "versi": "1.0.1",
   "tanggal": "2026-07-10",
-  "pesan": "📺 Channel TV pertama ditambahkan!",
+  "pesan": "📺 18 Channel TV Indonesia ditambahkan!",
   "detail": [
     "TVRI World",
     "Trans TV HD",
     "Trans 7 HD",
+    "Magna Channel HD",
     "CNN Indonesia",
     "CNBC Indonesia",
-    "RTV",
+    "VTV",
     "Nusantara TV",
+    "Rodja TV",
     "DAAI TV",
+    "RTV",
+    "BN Channel",
+    "Indonesiana TV",
     "Garuda TV",
     "Mentari TV",
     "ASTHA TV",
-    "BN Channel",
-    "Rodja TV",
-    "TV Edukasi",
-    "Insan TV",
-    "Arirang",
-    "REDBULL TV"
-  ]
+    "Lingkar TV",
+    "TV Edukasi"
+  ],
+  "link_download": "https://link-download-aplikasi-kamu.com/app-release.apk"
 }
