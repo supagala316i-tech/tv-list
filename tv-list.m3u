@@ -3,6 +3,9 @@
 
 # ==================== 🇮🇩 TV NASIONAL (LINK RESMI HIDUP) ====================
 
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" tvg-id="tvrisport" ,BTV DENS
+https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/stream.m3u8
+
 #EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,GARUDA TV HD
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,BERITA SATU HD
