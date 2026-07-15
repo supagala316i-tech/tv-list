@@ -61,7 +61,6 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="NASIONAL", Garuda TV (ChannelFeed)
 https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
-
 #EXTINF:-1 tvg-id="auto.astha.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astha_TV_logo.png/512px-Astha_TV_logo.png" group-title="NASIONAL", ASTHA TV
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
@@ -77,7 +76,7 @@ https://stream.carubantv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="auto.kilisuci.tv.kediri" group-title="NASIONAL" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png", Kilisuci TV Kediri
 https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8
 
-#EXTINF:-1 tvg-id="auto.dhoho.tv.kediri" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png", Dhoho TV Kediri
+#EXTINF:-1 tvg-id="auto.dhoho.tv.kediri" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/DhohoTV.png", Dhoho TV Kediri
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="auto.tv.tabalong" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="NASIONAL", TV Tabalong
@@ -172,7 +171,7 @@ https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Avatar.de@GB" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" group-title="United Kingdom",Avatar
-https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
+https://jmp2.uk/plu-656df599c0fc8800089c75wab.m3u8
 
 #EXTINF:-1 tvg-id="CapeTownTV.za@SD" tvg-logo="https://i.imgur.com/Y8FK1Kk.png" group-title="South Africa",Cape Town TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
