@@ -123,6 +123,9 @@ https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
 # ==================== 🌏 INTERNASIONAL ====================
 
+#EXTINF:-1 group-title="Umum" ,Stream 80
+https://59ec5453559f0.streamlock.net/miamitvDJ/smil:56925/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cqd-JrliSDG0kvFFKk8IDV7UBJDgP9KDjg&s" group-title="INTERNASIONAL", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
