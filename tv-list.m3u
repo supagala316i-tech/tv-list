@@ -3,6 +3,9 @@
 
 # ==================== 🇮🇩 TV NASIONAL (LINK RESMI HIDUP) ====================
 
+#EXTINF:-1 group-title="Kids Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" tvg-id="auto.vtv" ,VTV
+https://flv.intechmedia.net/live/ch107.m3u8
+
 
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" tvg-id="Mentari TV" ,Mentari TV
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
