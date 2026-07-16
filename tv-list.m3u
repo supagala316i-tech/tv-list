@@ -83,15 +83,15 @@ https://lnd0t3b922.tenbytecdn.com/ta-sg1/89c624c5-4b4f-473c-b50d-1a156a1c0174/ma
 #EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" tvg-id="daaitv.id" ,DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
-#EXTINF:-1 group-title="Umum" ,Stream 9
+#EXTINF:-1 group-title="Umum" ,Trans7HD
 http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
-#EXTINF:-1 group-title="Umum" ,Stream 10
+#EXTINF:-1 group-title="Umum" ,TransTV HD
 http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
 
-#EXTINF:-1 group-title="Umum" ,Stream 3
+#EXTINF:-1 group-title="Umum" ,antv
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
 
-#EXTINF:-1 group-title="Umum" ,Stream 2
+#EXTINF:-1 group-title="Umum" ,jitv
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" tvg-id="Moji" ,MOJI TV
