@@ -181,31 +181,215 @@ https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8
 #EXTINF:-1 tvg-id="auto.dhoho.tv.kediri" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/DhohoTV.png", Dhoho TV Kediri
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="auto.tv.tabalong" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="NASIONAL", TV Tabalong
+#E#EXTM3U
+#EXT-X-VERSION:3
+#EXT-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+# ==================== 🇮🇩 TV NASIONAL & HIBURAN ====================
+#EXTINF:-1 group-title="TV HIBURAN" tvg-logo="https://i.imgur.com/OUPGCWG.png" tvg-id="MusicInformationChannel.id@SD" tvg-name="Music Information Channel (720p)", Music Information Channel (720p)
+https://mic.siar.us/mic/live/mic.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/2560px-TVRI-World.svg.png" tvg-name="TVRI World", TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="MagnaChannel.id" tvg-name="Magna Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Magna_Channel_Logo.svg/1200px-Magna_Channel_Logo.svg.png", Magna Channel HD
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/nusantaratv.png?raw=true", Nusantara TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.chooser_resolution_max=720p
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rodjatv.png?raw=true", Rodja TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="DAAITV.id" tvg-name="DAAI TV" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png", DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png", RTV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="BNChannel.id" tvg-name="BN Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png", BN Channel
+https://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="Indonesiana TV" tvg-name="Indonesiana TV" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png", Indonesiana TV
+https://tvstreamcast.com/indonesiana.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="GarudaTV.id" tvg-name="Garuda TV HD" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png", Garuda TV HD
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="auto.astha.tv" tvg-name="ASTHA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astha_TV_logo.png/512px-Astha_TV_logo.png", ASTHA TV
+https://hgmtv.com:19360/asthatv/asthatv.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="auto.lingkar.tv" tvg-name="Lingkar TV" tvg-logo="https://lingkartv.com/assets/img/logo-square.png", Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="auto.davikatv.lampung" tvg-name="DavikaTV Lampung" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png", DavikaTV Lampung
+#EXTVLCOPT:http-referrer=https://davikatv.id/
+https://5bf7b725107e5.streamlock.net/davika/davika/chunklist_w997967539.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="auto.carubantv" tvg-name="CarubanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png", CarubanTV
+#EXTVLCOPT:http-referrer=https://carubantv.id/
+https://stream.carubantv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="auto.kilisuci.tv.kediri" tvg-name="Kilisuci TV Kediri" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png", Kilisuci TV Kediri
+#EXTVLCOPT:http-referrer=https://kilisucitv.co.id/
+https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="auto.dhoho.tv.kediri" tvg-name="Dhoho TV Kediri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/DhohoTV.png", Dhoho TV Kediri
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="auto.tv.tabalong" tvg-name="TV Tabalong" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png", TV Tabalong
+#EXTVLCOPT:http-referrer=https://tvtabalong.com/
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1267801285.m3u8
 
-#EXTINF:-1 tvg-id="auto.salira.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="NASIONAL", Salira TV
+#EXTINF:-1 group-title="NASIONAL" tvg-id="auto.salira.tv" tvg-name="Salira TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png", Salira TV
+#EXTVLCOPT:http-referrer=https://salira.tv/
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="auto.staratv.sumedang" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png", StaraTV Sumedang
+#EXTINF:-1 group-title="NASIONAL" tvg-id="auto.staratv.sumedang" tvg-name="StaraTV Sumedang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png", StaraTV Sumedang
+#EXTVLCOPT:http-referrer=https://staratv.id/
 https://stream.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-id="auto.staratv.malang" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png", StaraTV Malang
+#EXTINF:-1 group-title="NASIONAL" tvg-id="auto.staratv.malang" tvg-name="StaraTV Malang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png", StaraTV Malang
+#EXTVLCOPT:http-referrer=https://malang.staratv.id/
 https://malang.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-id="auto.staratv.cianjur" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png", StaraTV Cianjur
+#EXTINF:-1 group-title="NASIONAL" tvg-id="auto.staratv.cianjur" tvg-name="StaraTV Cianjur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png", StaraTV Cianjur
+#EXTVLCOPT:http-referrer=https://cianjur.staratv.id/
 https://cianjur.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-id="auto.bantentv" group-title="NASIONAL" tvg-logo="https://i.imgur.com/tbtF40p.png", BantenTV
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+# ==================== 📺 SALURAN BERITA & ANAK ====================
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/TA76a10.png" tvg-id="auto.banjartv" tvg-name="BanjarTV", BanjarTV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="auto.banyumastv" group-title="NASIONAL" tvg-logo="https://i.imgur.com/snMxng5.png", BanyumasTV
-https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+#EXTINF:-1 group-title="Kids Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" tvg-id="auto.vtv" tvg-name="VTV", VTV
+https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-id="auto.dmtv.malang" group-title="NASIONAL" tvg-logo="https://i.imgur.com/3iC41QX.png", DMTV Malang
+#EXTINF:-1 group-title="Kids Channel" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" tvg-id="Mentari TV" tvg-name="Mentari TV", Mentari TV
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w800170674_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w766556031_b384000_sleng.m3u8
+
+# ==================== 📡 SALURAN LOKAL & DAERAH ====================
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" tvg-name="DMTV MALANG", DMTV MALANG
 https://e.siar.us/live/dmtv.m3u8
 
-#EXTINF:-1 tvg-id="auto.suara.surabaya.fm" tvg-logo="http://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="Internet Radio", Suara Surabaya FM
+#EXTINF:-1 group-title="Lokal" tvg-name="CAMPUS TV", CAMPUS TV
+https://5bf7b725107e5.streamlock.net/campustv/campustv/chunklist_w1436484261.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/cKpgbgW.png" tvg-name="MADU TV HD", MADU TV HD
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/UGTV_Indonesia.png" tvg-name="UGTV", UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://iili.io/d0gpSaa.png" tvg-name="BANDUNG TV HD", BANDUNG TV HD
+https://202.150.153.254:443/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://iptv.urfan.web.id/logo/jogjatv.png" tvg-name="JOGJA TV", JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/B4JW54M.png" tvg-id="DutaTV" tvg-name="Duta TV", Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://iili.io/JbtnY74.png" tvg-name="SMTV SUMEDANG HD", SMTV SUMEDANG HD
+https://e.siar.us/live/smtv.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://iili.io/JbtnxII.png" tvg-name="Sampit TV", Sampit TV
+https://e.siar.us/live/sampit-tv.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://iili.io/JbtnILX.png" tvg-name="RCTV", RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://iili.io/Jbto5n1.png" tvg-name="Radar TV Tasikmalaya", Radar TV Tasikmalaya
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://iili.io/JbtouwB.png" tvg-name="Pon TV", Pon TV
+http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://iili.io/JbtoHv4.png" tvg-name="Jek TV", Jek TV
+http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://iili.io/JbtnzXt.png" tvg-name="Sakti TV HD", Sakti TV HD
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://iili.io/JbtnPvR.png" tvg-name="Dhamma TV", Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://iili.io/JbtnSCF.png" tvg-name="BANYUMAS TV HD", BANYUMAS TV HD
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" tvg-name="Bungo TV", Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Umum" tvg-name="Stream 91", Stream 91
+https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-name="JTV SURABAYA", JTV SURABAYA
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" tvg-name="JITV HD", JITV HD
+http://103.255.15.222:1935/tv/jitv/playlist.m3u8
+
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" tvg-name="OXYGEN TV", OXYGEN TV
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" tvg-id="tvrisport" tvg-name="BTV DENS", BTV DENS
+https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/stream.m3u8
+
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" tvg-name="BERITA SATU HD", BERITA SATU HD
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/89c624c5-4b4f-473c-b50d-1a156a1c0174/master.m3u8
+
+#EXTINF:-1 group-title="Umum" tvg-name="Trans7HD", Trans7HD
+http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
+
+#EXTINF:-1 group-title="Umum" tvg-name="TransTV HD", TransTV HD
+http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
+
+#EXTINF:-1 group-title="Umum" tvg-name="antv", antv
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
+
+#EXTINF:-1 group-title="Umum" tvg-name="jitv", jitv
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" tvg-id="Moji" tvg-name="MOJI TV", MOJI TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png" tvg-id="MDTV.id" tvg-name="MDTV", MDTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
+
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="auto.bantentv" tvg-name="BantenTV" group-title="NASIONAL" tvg-logo="https://i.imgur.com/tbtF40p.png", BantenTV
+#EXTVLCOPT:http-referrer=https://bantentv.com/
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="auto.banyumastv" tvg-name="BanyumasTV" group-title="NASIONAL" tvg-logo="https://i.imgur.com/snMxng5.png", BanyumasTV
+#EXTVLCOPT:http-referrer=https://banyumastv.com/
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="auto.dmtv.malang" tvg-name="DMTV Malang" group-title="NASIONAL" tvg-logo="https://i.imgur.com/3iC41QX.png", DMTV Malang
+#EXTVLCOPT:http-referrer=https://siardigital.id/
+https://e.siar.us/live/dmtv.m3u8
+
+#EXTINF:-1 tvg-id="auto.suara.surabaya.fm" tvg-name="Suara Surabaya FM" group-title="Internet Radio" tvg-logo="https://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png", Suara Surabaya FM
+#EXTVLCOPT:http-referrer=https://www.suarasurabayafm.com/
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
 
