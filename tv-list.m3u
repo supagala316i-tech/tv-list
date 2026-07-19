@@ -2,6 +2,13 @@
 #EXTM3U
 # ==================== 🇮🇩 TV NASIONAL & LOKAL - LENGKAP SESUAI DAFTAR ANDA ====================
 
+#EXTVLCOPT:http-referrer=https://indonesiana.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="Indonesia Channels",Indonesiana TV (ChannelFeed)
+https://tvstreamcast.com/indonesiana.m3u8
+
 
 #EXTINF:-1 group-title="TV HIBURAN" tvg-logo="https://i.imgur.com/OUPGCWG.png" tvg-id="MusicInformationChannel.id@SD" ,Music Information Channel (720p)
 https://mic.siar.us/mic/live/mic.m3u8
