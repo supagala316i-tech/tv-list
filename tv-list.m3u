@@ -2,6 +2,9 @@
 #EXTM3U
 # ==================== 🇮🇩 TV NASIONAL & LOKAL - LENGKAP SESUAI DAFTAR ANDA ====================
 
+#EXTINF:0 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", BTV HD 
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+
 #EXTINF:-1 group-title="TV HIBURAN" tvg-logo="https://i.imgur.com/OUPGCWG.png" tvg-id="MusicInformationChannel.id@SD" ,Music Information Channel (720p)
 https://mic.siar.us/mic/live/mic.m3u8
 
