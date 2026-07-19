@@ -224,6 +224,11 @@ https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
 # ==================== 🌏 INTERNASIONAL ====================
 
+#EXTINF:-1 group-title="WorldCup 2026" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" tvg-id="auto.somoy.tv.wc.feed" ,Somoy TV (WC Feed)
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 group-title="WorldCup 2026" tvg-logo="https://i.imgur.com/LHtxKI8.png" tvg-id="auto.fs2" ,FS2
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+
 #EXTINF:-1 group-title="Umum" ,Stream 80
 https://59ec5453559f0.streamlock.net/miamitvDJ/smil:56925/playlist.m3u8
 
