@@ -2,6 +2,17 @@
 #EXTM3U
 # ==================== 🇮🇩 TV NASIONAL & LOKAL - LENGKAP SESUAI DAFTAR ANDA ====================
 
+#EXTINF:-1 group-title="Umum" tvg-id="DMITV.id@SD" ,DMI TV (576i)
+https://tvstreamcast.com/tawaftv.m3u8
+#EXTINF:-1 group-title="Umum" tvg-id="Ananda.id@HD" ,Ananda (1080p)
+https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
+#EXTINF:-1 group-title="Umum" tvg-id="AlWafaTarim.id@SD" ,Alwafa Tarim TV (Am Media) (720p)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1 group-title="Umum" tvg-id="AFBTVKupang.id@SD" ,AFBTV Kupang (1080p) [Not 24/7]
+https://afbtv.siar.us/live/afbtv.m3u8
+#EXTINF:-1 group-title="Umum" tvg-id="AhsanTV.id@SD" ,Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+
 #EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" tvg-id="idtv" ,ALEGRO
 https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
 
