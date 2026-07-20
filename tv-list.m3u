@@ -2,12 +2,30 @@
 #EXTM3U
 # ==================== 🇮🇩 TV NASIONAL & LOKAL - LENGKAP SESUAI DAFTAR ANDA ====================
 
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" tvg-id="idtv" ,ALEGRO
+https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
+
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" tvg-id="idtv" ,ANANDA
+https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
+
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,RADIO RASI VISUAL TV
+https://5bf7b725107e5.streamlock.net/rasifm/rasifm/chunklist.m3u8
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,SUARA SURABAYA TV
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,RASIKA USA TV
+https://rasika.siar.us/live/rasika.m3u8
+
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,ASTHA TV
+https://hgmtv.com:19360/asthatv/asthatv.m3u8
+
 #EXTINF:-1 group-title="⚖️LEGISLATIF⚖️" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,TVR PARLEMEN INDONESIA
 https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="📰BERITA PREMIUM📰" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,BLOOMBERG TV MONGOLIA
 https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
 
-
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://ktv-live.com/wp-content/uploads/2024/02/logo-e1707399171762-768x407.jpg" ,KALTARA TV
+https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zksc4M/hq720.jpg" group-title="🔴NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -37,9 +55,7 @@ https://mic.siar.us/mic/live/mic.m3u8
 
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://i.imgur.com/TA76a10.png" tvg-id="auto.banjartv" ,BanjarTV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" tvg-id="auto.vtv" ,VTV
-https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,VTV HD
 
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" tvg-id="Mentari TV" ,Mentari TV
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
@@ -53,8 +69,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" ,DMTV MALANG
 https://e.siar.us/live/dmtv.m3u8
 
-#EXTINF:-1 group-title="Lokal" tvg-logo="   " ,CAMPUS TV
-https://5bf7b725107e5.streamlock.net/campustv/campustv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/cKpgbgW.png" ,MADU TV HD
 https://re1.siar.us/madutv/hd720/playlist.m3u8
@@ -211,6 +226,18 @@ https://malang.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="auto.staratv.cianjur" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png", StaraTV Cianjur
 https://cianjur.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://stream.staratv.id/logo" ,STARA TV JAKARTA
+https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://stream.staratv.id/logo" ,STARA TV MAJALENGKA
+https://stream.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://stream.staratv.id/logo" ,STARA TV CIANJUR
+https://cianjur.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://stream.staratv.id/logo" ,STARA TV MALANG
+https://malang.staratv.id/hls/1/stream.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://stream.staratv.id/logo" ,STARA TV BANDUNG
+https://bandung.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://stream.staratv.id/logo" ,STARA TV PARAHYANGAN
+https://parahyangan.staratv.id/hls/0/stream.m3u8
 
 
 #EXTM3U
@@ -234,8 +261,48 @@ https://e.siar.us/live/dmtv.m3u8
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Umum" ,Stream 8838
+https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://stream.matrixtv.id/logo" ,STARA TV JOGJA
+https://stream.matrixtv.id/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Umum" ,Stream 5734
+https://xilam-animation-1-fr.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 group-title="Lokal" ,ABTV BLITAR
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://stream.staratv.id/logo" ,STARA TV BOJONEGORO
+https://bojonegoro.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="   " ,DAVIKA TV
+https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="   " ,SRIWIJAYA TV
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+
+
 
 # ==================== 🌏 INTERNASIONAL ====================
+
+#EXTINF:-1 group-title="🌊OUTDOOR🌿" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,OUTSIDE
+https://desdobebr2wri.cloudfront.net/Outside.m3u8
+#EXTINF:-1 group-title="🌊OUTDOOR🌿" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,WILD PLANET
+https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
+
+#EXTINF:-1 group-title="👶ANAK PREMIUM👶" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,4FUN KIDS HD
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.pngl" ,FICOM CHANEL BACKUP
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
+#EXTINF:-1 group-title="TURKEY" tvg-logo="https://i.imgur.com/TXDV1ty.png" ,BIT SANTRAC TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 group-title="TURKEY" tvg-logo="https://i.imgur.com/U3qlEAp.png" ,BRTV TURK
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+
+#EXTINF:-1 group-title="👶ANAK PREMIUM👶" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,SAT 7 KIDS
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Samsung TV" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USBA3000214220200730102745.png" tvg-id="USBA30002142" ,TYT Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="🔴PREMIUM MOVIE",Persiana Junior
