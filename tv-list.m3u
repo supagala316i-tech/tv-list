@@ -9,8 +9,8 @@ https://youtu.be/CqeLcxVqPjM?si=Jw3Ppcu_OLj4KCkT
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI HD" tvg-logo="https://masterplayer.pro:443/images/UbO3hHRBNHJuv3D0HxvxgC2H91a-2MfUIiExDV1NQkvs33qRIQ1YAGsYqhzo7p-j.png" group-title="LOKAL HD",RCTI HD
 
-#EXTINF:-1 group-title="Umum" tvg-id="DMITV.id@SD" ,DMI TV (576i)
-https://tvstreamcast.com/tawaftv.m3u8
+#EXTINF:-1 group-title="Umum" tvg-id="DMITV.id@SD" ,youtube (576i)
+https://youtu.be/CqeLcxVqPjM?si=Jw3Ppcu_OLj4KCkT
 #EXTINF:-1 group-title="Umum" tvg-id="Ananda.id@HD" ,Ananda (1080p)
 https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
 #EXTINF:-1 group-title="Umum" tvg-id="AlWafaTarim.id@SD" ,Alwafa Tarim TV (Am Media) (720p)
