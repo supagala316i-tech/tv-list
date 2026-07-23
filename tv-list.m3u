@@ -2,9 +2,7 @@
 #EXTM3U
 # ==================== 🇮🇩 TV NASIONAL & LOKAL - LENGKAP SESUAI DAFTAR ANDA ====================
 
-https://www.youtube.com/live/ZVfrIB4Qq4Q?si=4j6h8-pugB6Fsykt
-https://youtu.be/dKxUw8-1Wp0?si=DNVeezDktTRMexxV
-https://youtu.be/CqeLcxVqPjM?si=Jw3Ppcu_OLj4KCkT
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI HD" tvg-logo="https://masterplayer.pro:443/images/UbO3hHRBNHJuv3D0HxvxgC2H91a-2MfUIiExDV1NQkvs33qRIQ1YAGsYqhzo7p-j.png" group-title="LOKAL HD",RCTI HD
@@ -12,9 +10,7 @@ https://youtu.be/CqeLcxVqPjM?si=Jw3Ppcu_OLj4KCkT
 #EXTINF:-1 group-title="Umum" ,Drama Koleksi - Link YouTube
 https://youtu.be/Wc1_zzBZjw0?si=VRMwvZDnhJpqBTeA
 
-#EXTM3U
-#EXTINF:-1 group-title="Umum" tvg-id="DMITV.id@SD" ,tv one
-https://www.youtube.com/live/rQJoEpzKkNk?si=H6lzr93uH9zEy8no
+
 
 #EXTINF:-1 group-title="Umum" tvg-id="Ananda.id@HD" ,Ananda (1080p)
 https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
