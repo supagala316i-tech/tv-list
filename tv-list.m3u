@@ -2,6 +2,26 @@
 #EXTM3U
 # ==================== 🇮🇩 TV NASIONAL & LOKAL - LENGKAP SESUAI DAFTAR ANDA ====================
 
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV" group-title="BERITA",KOMPAS TV 24 Jam Live
+https://www.youtube.com/live/DOOrIxw5xOw?si=L-Z7W1ZTs8tQO6S0
+
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" group-title="BERITA & NASIONAL",TVRI Nasional Live
+https://www.youtube.com/live/d7wfBCr79Jk?si=guk38bXjlx0dHF4j
+
+#EXTM3U
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne HD" group-title="BERITA",tvOne 24 Jam Live
+https://www.youtube.com/live/rQJoEpzKkNk?si=W0ZYCmUOxm-udy5U
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METRO TV" group-title="BERITA",METRO TV 24 Jam Live
+https://www.youtube.com/live/AUE5iHINUIw?si=mgzhR4PqakcrI7ls
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" group-title="BERITA",CNN Indonesia 24 Jam Live
+https://www.youtube.com/live/PDDOkUq33Sw?si=M2Kkrco3EDp-YAY4
+#EXTINF:-1 tvg-id="IDXChannel.id" tvg-name="IDX Channel" group-title="EKONOMI & BISNIS",IDX Channel 24 Jam Live
+https://www.youtube.com/live/8dNAAe5dcqQ?si=TXpIYVa9mEo9I0ZB
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" group-title="BERITA",iNews TV 24 Jam Live
+https://www.youtube.com/live/WHTPYAvakTg?si=m_BQruMzt8vSZ0CR
+
+
+
 #EXTM3U
 #EXTINF:-1 group-title="ANIME",God Of Magicial World【Eps. 1~20】Wan Jie Fa Shen - Sub Indo
 https://youtu.be/iqp4D3ZSj1o?si=wMwsQ7sJRxJdEpcJ
