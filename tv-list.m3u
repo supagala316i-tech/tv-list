@@ -29,21 +29,20 @@ https://www.youtube.com/live/EDnKfiDlSkw?si=-t8i82z4zSScMLHi
 https://www.youtube.com/live/ZY1oRf7Pxz0?si=o5DXpSP5l0p4oQDM
 #EXTINF:-1 tvg-id="KompasTVBanjarmasin.id" tvg-name="KOMPAS TV BANJARMASIN" group-title="BERITA DAERAH",KOMPAS TV BANJARMASIN Live
 https://www.youtube.com/live/c9L4myCmsvs?si=CPAmwIrPVRfGAqLv
+
 #EXTM3U
-#EXTINF:-1 tvg-name="United Nations" tvg-id="un.org" tvg-logo="https://www.un.org/sites/default/files/styles/medium/public/2020-07/un-logo.png" group-title="Berita & Internasional", United Nations
+#EXTINF:-1 tvg-name="United Nations" tvg-id="un.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/512px-Flag_of_the_United_Nations.svg.png" group-title="Berita & Internasional", United Nations
 https://www.youtube.com/live/vYRfQo6JMxc?si=--0SodkAMYvKcMpb
-#EXTM3U
+
 #EXTINF:-1 tvg-name="CNA" tvg-id="cna.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CNA_Logo_2019.svg/512px-CNA_Logo_2019.svg.png" group-title="Berita & Internasional", CNA (Channel NewsAsia)
 https://www.youtube.com/live/fSUMKrxPEd8?si=L9A1c8458yOJ7tke
-#EXTM3U
-#EXTINF:-1 tvg-name="Vatican Media" tvg-id="vaticanmedia.va" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Coat_of_arms_of_the_Vatican_City.svg/1200px-Coat_of_arms_of_the_Vatican_City.svg.png" group-title="Berita & Internasional", Vatican Media
-https://www.youtube.com/live/EEM7a3mHMR4?si=2js44GNvn-3UXRi7
-#EXTM3U
+
 #EXTINF:-1 tvg-name="Serie A" tvg-id="seriea.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/512px-Serie_A_logo_2022.svg.png" group-title="Olahraga", Serie A
 https://www.youtube.com/live/fLBsaK90VrY?si=UON9ytY_68rrJa2k
-#EXTM3U
+
 #EXTINF:-1 tvg-name="BBS Bhutan" tvg-id="bbs.bt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Emblem_of_Bhutan.svg/512px-Emblem_of_Bhutan.svg.png" group-title="Berita & Internasional", Bhutan Broadcasting Service
 https://www.youtube.com/live/e-8olaw292g?si=Dl53vEatsVVXurQh
+
 
 
 
