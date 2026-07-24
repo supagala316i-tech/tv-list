@@ -5,8 +5,7 @@
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV" group-title="BERITA",KOMPAS TV 24 Jam Live
 https://www.youtube.com/live/DOOrIxw5xOw?si=L-Z7W1ZTs8tQO6S0
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" group-title="BERITA & NASIONAL",TVRI Nasional Live
-https://www.youtube.com/live/d7wfBCr79Jk?si=guk38bXjlx0dHF4j
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne HD" group-title="BERITA",tvOne 24 Jam Live
