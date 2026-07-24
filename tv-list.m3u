@@ -5,14 +5,6 @@
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV" group-title="BERITA",KOMPAS TV 24 Jam Live
 https://www.youtube.com/live/DOOrIxw5xOw?si=L-Z7W1ZTs8tQO6S0
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXTINF:-1 tvg-name="RCTI" tvg-id="rcti.id" tvg-logo="https://iptvsystem.my.id/img/RCTI.png" group-title="TV Nasional", RCTI
-https://www.youtube.com/live/vuXwhzmzL7U?si=eCME8bLDxKr4o5f4
-#EXTM3U
-#EXTINF:-1 tvg-name="MNCTV" tvg-id="mnctv.id" tvg-logo="https://iptvsystem.my.id/img/MNCTV.png" group-title="TV Nasional", MNCTV
-https://www.youtube.com/live/GHuCtccto7w?si=Z1ihxGNUGJ1Fe0Nr
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne HD" group-title="BERITA",tvOne 24 Jam Live
