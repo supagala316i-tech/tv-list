@@ -40,6 +40,12 @@ https://www.youtube.com/live/fSUMKrxPEd8?si=L9A1c8458yOJ7tke
 #EXTINF:-1 tvg-name="Serie A" tvg-id="seriea.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/512px-Serie_A_logo_2022.svg.png" group-title="Olahraga", Serie A
 https://www.youtube.com/live/fLBsaK90VrY?si=UON9ytY_68rrJa2k
 
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="BERITA",Al Jazeera English
+https://www.youtube.com/live/gCNeDWCI0vo?si=giL70XhlniVrmcXN
+
+#EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-name="CNA Originals LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CNA_Logo.svg/512px-CNA_Logo.svg.png" group-title="DOKUMENTER & BERITA",CNA Originals LIVE
+https://www.youtube.com/live/fSUMKrxPEd8?si=CMgAcPAC_kwzhmRX
+
 
 
 
