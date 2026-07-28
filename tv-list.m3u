@@ -4,6 +4,10 @@
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV" group-title="BERITA",KOMPAS TV 24 Jam Live
 https://www.youtube.com/live/DOOrIxw5xOw?si=L-Z7W1ZTs8tQO6S0
+#EXTINF:-1 tvg-id="STARPRO.id" tvg-name="STARPRO Indonesia" group-title="HIBURAN",STARPRO Indonesia 24 Jam Live
+https://www.youtube.com/live/sC4llmS31QE?si=ElHQwYG5_Zl_Hxzd
+#EXTINF:-1 tvg-id="DivaTheSeries.id" tvg-name="DIVA THE SERIES" group-title="ANAK & KARTUN",DIVA THE SERIES 24 Jam Live
+https://www.youtube.com/live/6rjS5HCkf58?si=QHhcuRY69OUz6VJs
 
 
 #EXTM3U
@@ -29,6 +33,19 @@ https://www.youtube.com/live/EDnKfiDlSkw?si=-t8i82z4zSScMLHi
 https://www.youtube.com/live/ZY1oRf7Pxz0?si=o5DXpSP5l0p4oQDM
 #EXTINF:-1 tvg-id="KompasTVBanjarmasin.id" tvg-name="KOMPAS TV BANJARMASIN" group-title="BERITA DAERAH",KOMPAS TV BANJARMASIN Live
 https://www.youtube.com/live/c9L4myCmsvs?si=CPAmwIrPVRfGAqLv
+#EXTINF:-1 tvg-id="zaylinho.id" tvg-name="zaylinho" group-title="GAME & MINECRAFT",DAY 31 SUBATHON LIVE 24 JAM MINECRAFT
+https://www.youtube.com/live/rlcPDXfv_zE?si=OWYy_PYFfEqbrdsr
+#EXTINF:-1 tvg-id="DongengKita.id" tvg-name="CERITA RAKYAT INDONESIA" group-title="DONGENG & ANAK",CERITA RAKYAT INDONESIA 24 Jam
+https://www.youtube.com/live/xuZrbwFIl-w?si=HdNIE479qSy2oUQk
+#EXTINF:-1 tvg-id="DisneyJr.PixarCars" tvg-name="Pixar Cars 24 Jam" group-title="ANAK & ANIMASI",Disney Jr. - Pixar Cars
+https://www.youtube.com/live/yzKTO-6KWHU?si=9sJKTu2Q26w65KuR
+#EXTINF:-1 tvg-id="OkezoneTV.id" tvg-name="OKEZONE" group-title="BERITA & OLAHRAGA",OKEZONE 24 Jam Live
+https://www.youtube.com/live/VF0MWMBriDg?si=X7mrZYcVBQgu3yNv
+#EXTINF:-1 tvg-id="AmbyarEverywhere.id" tvg-name="Dangdut Koplo 24 Jam" group-title="MUSIK & DANGDUT",AMBYAR EVERYWHERE - Dangdut Koplo
+https://www.youtube.com/live/bLRxNhaxcXM?si=x2Ja3MeF_fnyV3nZ
+
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-name="United Nations" tvg-id="un.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/512px-Flag_of_the_United_Nations.svg.png" group-title="Berita & Internasional", United Nations
