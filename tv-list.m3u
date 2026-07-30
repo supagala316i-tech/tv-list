@@ -86,7 +86,8 @@ https://youtu.be/sJSKKalMT00?si=xyAAyTL66sn1VAc1
 #EXTINF:-1 group-title="ANIME",God Of Magical World Episode 53 Subtitle Indonesia
 https://youtu.be/TQJzI1mSAoQ?si=ZDZlptrtGDA5tK3O
 
-
+#EXTINF:-1 tvg-id="dTVi.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_DTVI.png" group-title="General",dTVi
+https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="Indonesia Channels",Indonesiana TV (ChannelFeed)
 https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX (V+)
@@ -144,7 +145,8 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/500px-Logo_MQTV.png" group-title="RELIGION",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/mqtv/mqtv-avc1_2500000=7-3277707030000000.mpd
-
+#EXTINF:-1 tvg-id="AlImanTV.id@SD" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Religious",Al-Iman TV (720p)
+https://tv.aliman.id/aliman/live.m3u8
 
 #EXTVLCOPT:http-referrer=https://indonesiana.tv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -165,7 +167,8 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" ,DMTV MALANG
 https://e.siar.us/live/dmtv.m3u8
-
+#EXTINF:-1 tvg-id="PadangTV.id@SD" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="General",Padang TV (720p) [Not 24/7]
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/cKpgbgW.png" ,MADU TV HD
