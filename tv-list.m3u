@@ -450,6 +450,9 @@ https://tvstreamcast.com/tawaftv.m3u8
 https://www.naajiyatv.com/live/livestream.m3u8
 # ==================== 🌏 INTERNASIONAL ====================
 
+#EXTM3U
+#EXTINF:-1 tvg-id="WedoSportsAsia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wedo_TV_logo.svg/320px-Wedo_TV_logo.svg.png" group-title="Olahraga",Wedo Sports Asia
+https://amg00735-amg00735c45-denstv-apac-7616.playouts.now.amagi.tv/ts-eu-w1-n2/121/1920x1080_5903040/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="WedoMoviesAsia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wedo_TV_logo.svg/320px-Wedo_TV_logo.svg.png" group-title="Film & Hiburan",Wedo Movies Asia
