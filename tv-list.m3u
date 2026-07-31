@@ -87,9 +87,62 @@ https://youtu.be/sJSKKalMT00?si=xyAAyTL66sn1VAc1
 https://youtu.be/TQJzI1mSAoQ?si=ZDZlptrtGDA5tK3O
 
 
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/cb/Magna_Channel_logo.svg/320px-Magna_Channel_logo.svg.png" group-title="Hiburan",Magna Channel
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/02.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_nusantaratv.png/320px-Logo_nusantaratv.png" group-title="Berita & Umum",Nusantara TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAAI_TV.svg/320px-DAAI_TV.svg.png" group-title="Pendidikan & Kemanusiaan",DAAI TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h16/02.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Play.id" tvg-logo="https://i.imgur.com/nZ7XQ2L.png" group-title="Hiburan Umum",Play
+https://op-flashcon-digdayahd-1.dens.tv/h/h246/01.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="KnowledgeChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Knowledge_Channel_logo.svg/320px-Knowledge_Channel_logo.svg.png" group-title="Edukasi & Pengetahuan",Knowledge
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/01.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="ShowBiz.id" tvg-logo="https://i.imgur.com/6ZbXQwL.png" group-title="Hiburan & Gosip",Showbiz
+https://op-flashcon-digdayahd-1.dens.tv/h/h244/01.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="DensFoodChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Asian_Food_Network_logo.svg/320px-Asian_Food_Network_logo.svg.png" group-title="Masak & Gaya Hidup",DFC Food Channel
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/01.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Publik & Umum",TVRI
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/02.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jak_TV_logo_2018.svg/320px-Jak_TV_logo_2018.svg.png" group-title="Lokal & Umum",Jak TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h218/01.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BTV_%28Indonesia%29_logo_%282025%29.svg/320px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="Berita & Umum",BTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_BeritaSatu_Media.png/320px-Logo_BeritaSatu_Media.png" group-title="Berita",BeritaSatu
+https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="ElshintaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Elshinta_TV_logo_2019.svg/1200px-Elshinta_TV_logo_2019.svg.png" group-title="Umum",Elshinta TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h303/S1/mnf.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="Umum",RTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
+
+
 
 #EXTINF:-1 tvg-id="dTVi.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_DTVI.png" group-title="General",dTVi
 https://e.siar.us/live/dtvi.m3u8
@@ -396,6 +449,11 @@ https://tvstreamcast.com/tawaftv.m3u8
 #EXTVLCOPT:http-referrer=https://www.naajiyatv.com/tonton
 https://www.naajiyatv.com/live/livestream.m3u8
 # ==================== 🌏 INTERNASIONAL ====================
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="WedoMoviesAsia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wedo_TV_logo.svg/320px-Wedo_TV_logo.svg.png" group-title="Film & Hiburan",Wedo Movies Asia
+https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/ts-eu-w1-n2/158/1280x720_3329040x.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.u-channel.tv
 https://srs.u-channel.tv/live/uchannel-tv.m3u8
