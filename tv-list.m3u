@@ -2,7 +2,10 @@
 #EXTM3U
 # ==================== 🇮🇩 TV NASIONAL & LOKAL - LENGKAP SESUAI DAFTAR ANDA ====================
 
-
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1,SURAT UNTUK MASA MUDAKU (2026)
+https://masterplayer.pro:443/movie/Kang_pagal12/12Kang_pagal/496.mp4
 
 
 
