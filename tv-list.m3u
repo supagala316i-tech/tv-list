@@ -2,90 +2,6 @@
 #EXTM3U
 # ==================== 🇮🇩 TV NASIONAL & LOKAL - LENGKAP SESUAI DAFTAR ANDA ====================
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV" group-title="BERITA",KOMPAS TV 24 Jam Live
-https://www.youtube.com/live/DOOrIxw5xOw?si=L-Z7W1ZTs8tQO6S0
-#EXTINF:-1 tvg-id="STARPRO.id" tvg-name="STARPRO Indonesia" group-title="HIBURAN",STARPRO Indonesia 24 Jam Live
-https://www.youtube.com/live/sC4llmS31QE?si=ElHQwYG5_Zl_Hxzd
-#EXTINF:-1 tvg-id="DivaTheSeries.id" tvg-name="DIVA THE SERIES" group-title="ANAK & KARTUN",DIVA THE SERIES 24 Jam Live
-https://www.youtube.com/live/6rjS5HCkf58?si=QHhcuRY69OUz6VJs
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne HD" group-title="BERITA",tvOne 24 Jam Live
-https://www.youtube.com/live/rQJoEpzKkNk?si=W0ZYCmUOxm-udy5U
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METRO TV" group-title="BERITA",METRO TV 24 Jam Live
-https://www.youtube.com/live/AUE5iHINUIw?si=mgzhR4PqakcrI7ls
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" group-title="BERITA",CNN Indonesia 24 Jam Live
-https://www.youtube.com/live/PDDOkUq33Sw?si=M2Kkrco3EDp-YAY4
-#EXTINF:-1 tvg-id="IDXChannel.id" tvg-name="IDX Channel" group-title="EKONOMI & BISNIS",IDX Channel 24 Jam Live
-https://www.youtube.com/live/8dNAAe5dcqQ?si=TXpIYVa9mEo9I0ZB
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" group-title="BERITA",iNews TV 24 Jam Live
-https://www.youtube.com/live/WHTPYAvakTg?si=m_BQruMzt8vSZ0CR
-#EXTINF:-1 tvg-id="JITV.id" tvg-name="JITV Jogja Istimewa Televisi" group-title="DAERAH & INFORMASI",JITV 24 Jam Live
-https://www.youtube.com/live/HO65LoSPf6w?si=cCIZujtADCYsZcUz
-#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-name="SINDOnews TV" group-title="BERITA",SINDOnews 24 Jam Live
-https://www.youtube.com/live/z31jg2THbWM?si=7ItcLm4T9pdQ-s-e
-#EXTINF:-1 tvg-id="KompasTVJatim.id" tvg-name="KOMPAS TV JAWA TIMUR" group-title="BERITA DAERAH",KOMPAS TV JAWA TIMUR Live
-https://www.youtube.com/live/JMXBMEUB-w4?si=rcRTRZn23KhwdR2w
-#EXTINF:-1 tvg-id="MTATV.id" tvg-name="MTATV" group-title="RELIGI & PENGAJIAN",MTATV 24 Jam Live
-https://www.youtube.com/live/EDnKfiDlSkw?si=-t8i82z4zSScMLHi
-#EXTINF:-1 tvg-id="TVRParlemen.id" tvg-name="TVR Parlemen" group-title="BERITA & PARLEMEN",TVR Parlemen Live
-https://www.youtube.com/live/ZY1oRf7Pxz0?si=o5DXpSP5l0p4oQDM
-#EXTINF:-1 tvg-id="KompasTVBanjarmasin.id" tvg-name="KOMPAS TV BANJARMASIN" group-title="BERITA DAERAH",KOMPAS TV BANJARMASIN Live
-https://www.youtube.com/live/c9L4myCmsvs?si=CPAmwIrPVRfGAqLv
-
-#EXTINF:-1 tvg-id="DongengKita.id" tvg-name="CERITA RAKYAT INDONESIA" group-title="DONGENG & ANAK",CERITA RAKYAT INDONESIA 24 Jam
-https://www.youtube.com/live/xuZrbwFIl-w?si=HdNIE479qSy2oUQk
-#EXTINF:-1 tvg-id="DisneyJr.PixarCars" tvg-name="Pixar Cars 24 Jam" group-title="ANAK & ANIMASI",Disney Jr. - Pixar Cars
-https://www.youtube.com/live/yzKTO-6KWHU?si=9sJKTu2Q26w65KuR
-#EXTINF:-1 tvg-id="OkezoneTV.id" tvg-name="OKEZONE" group-title="BERITA & OLAHRAGA",OKEZONE 24 Jam Live
-https://www.youtube.com/live/VF0MWMBriDg?si=X7mrZYcVBQgu3yNv
-#EXTINF:-1 tvg-id="AmbyarEverywhere.id" tvg-name="Dangdut Koplo 24 Jam" group-title="MUSIK & DANGDUT",AMBYAR EVERYWHERE - Dangdut Koplo
-https://www.youtube.com/live/bLRxNhaxcXM?si=x2Ja3MeF_fnyV3nZ
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="United Nations" tvg-id="un.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/512px-Flag_of_the_United_Nations.svg.png" group-title="Berita & Internasional", United Nations
-https://www.youtube.com/live/vYRfQo6JMxc?si=--0SodkAMYvKcMpb
-
-#EXTINF:-1 tvg-name="CNA" tvg-id="cna.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CNA_Logo_2019.svg/512px-CNA_Logo_2019.svg.png" group-title="Berita & Internasional", CNA (Channel NewsAsia)
-https://www.youtube.com/live/fSUMKrxPEd8?si=L9A1c8458yOJ7tke
-
-
-
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="BERITA",Al Jazeera English
-https://www.youtube.com/live/gCNeDWCI0vo?si=giL70XhlniVrmcXN
-
-#EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-name="CNA Originals LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CNA_Logo.svg/512px-CNA_Logo.svg.png" group-title="DOKUMENTER & BERITA",CNA Originals LIVE
-https://www.youtube.com/live/fSUMKrxPEd8?si=CMgAcPAC_kwzhmRX
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="ANIME",God Of Magicial World【Eps. 1~20】Wan Jie Fa Shen - Sub Indo
-https://youtu.be/iqp4D3ZSj1o?si=wMwsQ7sJRxJdEpcJ
-
-#EXTINF:-1 group-title="ANIME",Koleksi Anime & Film [21~40]
-https://youtu.be/W-tdqq15aCk?si=w93C5SsP4vFWvv1Q
-
-#EXTINF:-1 group-title="ANIME",God Of Magicial World【Eps. 41~45】Wan Jie Fa Shen - Sub Indo
-https://youtu.be/61HDEN2Uw60?si=ci_P7aUeklc3nS3o
-
-#EXTINF:-1 group-title="ANIME",God Of Magical World Episode 46 - 50 Sub Indo
-https://youtu.be/UJVSQkD34e0?si=220vBtAZ9YTqVnuO
-
-#EXTINF:-1 group-title="ANIME",Koleksi Anime Lengkap[51]
-https://youtu.be/UNvl9JSGIhk?si=HWdDxRRHa3NE8Bk4
-
-#EXTINF:-1 group-title="ANIME",God Of Magical World Episode 52 Subtitle Indonesia
-https://youtu.be/sJSKKalMT00?si=xyAAyTL66sn1VAc1
-
-#EXTINF:-1 group-title="ANIME",God Of Magical World Episode 53 Subtitle Indonesia
-https://youtu.be/TQJzI1mSAoQ?si=ZDZlptrtGDA5tK3O
-
 
 
 
@@ -156,8 +72,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCTI HD" tvg-logo="https://masterplayer.pro:443/images/UbO3hHRBNHJuv3D0HxvxgC2H91a-2MfUIiExDV1NQkvs33qRIQ1YAGsYqhzo7p-j.png" group-title="LOKAL HD",RCTI HD
 #EXTINF:-1 tvg-id="MadaniTV.id@SD" tvg-logo="https://i.imgur.com/8aonQ0v.png" group-title="Religious",Madani TV (720p)
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Umum" ,Drama Koleksi - Link YouTube
-https://youtu.be/Wc1_zzBZjw0?si=VRMwvZDnhJpqBTeA
+
 #EXTINF:-1 tvg-id="JogjaTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png" group-title="General",Jogja TV (720p) [Not 24/7]
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="General",Jawa Pos TV Jakarta (720p)
