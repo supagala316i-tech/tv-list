@@ -81,6 +81,18 @@ https://youtu.be/sJSKKalMT00?si=xyAAyTL66sn1VAc1
 https://youtu.be/TQJzI1mSAoQ?si=ZDZlptrtGDA5tK3O
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RCTI_Logo_2015.svg/512px-RCTI_Logo_2015.svg.png" group-title="MNC GROUP HD",RCTI HD
+https://rcti-linier.rctiplus.id/hdntl=exp=1785931175~acl=%2F*~data=hdntl-hmac=80c2371412c948f2777c29cd2acc5461e228496dd78906632845dd72319a4b7/rcti-sdi-avc1_1000000=17-mp4a96000=1.m3u8
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/MNCTV_logo_2015.svg/512px-MNCTV_logo_2015.svg.png" group-title="MNC GROUP HD",MNCTV HD
+https://mnctv-linier.rctiplus.id/hdntl=exp=1785930781~acl=%2F*~data=hdntl~hmac=3b0869dc87efa64e3a41b6088bef63d7f40fbaee64388d3b6d3b1557a55d9c85/mnctv-sdi-avc1_1000000=17-mp4a96000=1.m3u8
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GTV_Indonesia_logo_2017.svg/512px-GTV_Indonesia_logo_2017.svg.png" group-title="MNC GROUP HD",GTV HD
+https://gtv-linier.rctiplus.id/hdntl=exp=1785930956~acl=%2F*~data=hdntl~hmac=bc1f47d134271a4cc9878f7fd947668bf85425145a1ed858f59b80f594dd02/gtv-sdi-avc1_1000000=7-mp4a96000=1.m3u8
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/INews.svg/512px-INews.svg.png" group-title="MNC GROUP HD",iNews HD
+https://inews-linier.rctiplus.id/hdntl=exp=1785931083~acl=%2F*~data=hdntl~hmac=82d2d1234de0c2621d4d318a51616aa2c5f8c53ac0acbe6ee2a078b/inews-sdi-avc1_1000000=7-mp4a96000=1.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://imgur.com/MpxTMiP" tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
