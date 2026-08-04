@@ -82,44 +82,8 @@ https://youtu.be/TQJzI1mSAoQ?si=ZDZlptrtGDA5tK3O
 
 
 
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" tvg-id="TimorTV.id@HD" ,Timor TV (1080p)
-http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/EIrXgT8.png" tvg-id="STV.id@SD" ,STV (720p)
-http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/4rTNT8F.png" tvg-id="SangajiTV.id@SD" ,Sangaji TV (720p)
-https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png" tvg-id="RadarLampungTV.id@SD" ,Radar Lampung TV (480p)
-https://www.streaming.radartv.co.id/hls/test.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://stream.matrixtv.id/logo" tvg-id="MatrixTVYogyakarta.id@HD" ,Matrix TV Yogyakarta (720p)
-https://stream.matrixtv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" tvg-id="KawanuaTV.id@SD" ,Kawanua TV (720p)
-http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/mIDWIQk.png" tvg-id="JTV.id@Kediri" ,JTV Kediri
-http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/mIDWIQk.png" tvg-id="JTV.id@Madiun" ,JTV Madiun
-http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/mIDWIQk.png" tvg-id="JTV.id@Malang" ,JTV Malang
-http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" tvg-id="BRTV.id@SD" ,BRTV (720p)
-https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png" tvg-id="AtambuaTV.id@HD" ,Atambua TV (720p)
-http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png" tvg-id="AngelTV.in@Indonesia" ,Angel TV Indonesia (720p)
-https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/z1XQp3m.png" group-title="Hiburan",Magna Channel
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/02.m3u8
@@ -210,6 +174,45 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="TVRIWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/2560px-TVRI-World.svg.png",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+
+#EXTINF:-1 group-title="Lokal" tvg-id="TimorTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png",Timor TV (1080p)
+http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png",STV (720p)
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-id="SangajiTV.id@SD" tvg-logo="https://i.imgur.com/4rTNT8F.png",Sangaji TV (720p)
+https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-id="RadarLampungTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png",Radar Lampung TV (480p)
+https://streaming.radartv.co.id/hls/test.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-id="MatrixTVYogyakarta.id@HD" tvg-logo="https://stream.matrixtv.id/logo",Matrix TV Yogyakarta (720p)
+https://stream.matrixtv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-id="KawanuaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png",Kawanua TV (720p)
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-id="JTV.id@Kediri" tvg-logo="https://i.imgur.com/mIDWIQk.png",JTV Kediri
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-id="JTV.id@Madiun" tvg-logo="https://i.imgur.com/mIDWIQk.png",JTV Madiun
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-id="JTV.id@Malang" tvg-logo="https://i.imgur.com/mIDWIQk.png",JTV Malang
+http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-id="BRTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",BRTV (720p)
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-id="AtambuaTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png",Atambua TV (720p)
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-id="AngelTV.in@Indonesia" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV Indonesia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+
+
 
 # <=================================== RELIGION =========================================>
 
