@@ -83,7 +83,8 @@ https://youtu.be/TQJzI1mSAoQ?si=ZDZlptrtGDA5tK3O
 
 
 
-
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://imgur.com/MpxTMiP" tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/z1XQp3m.png" group-title="Hiburan",Magna Channel
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/02.m3u8
