@@ -228,6 +228,16 @@ https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindones
 
 # <=================================== RELIGION =========================================>
 
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🕌RELIGI🕌",SUNAH TV
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TYc7ypJ/brtv.png" group-title="Religion",BRTV 🇮🇩 ☪
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🕌RELIGI🕌", TV MUHAMMADIYAH 
+https://e.siar.us/live/tvmu.m3u8
+
+
+
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/500px-Logo_MQTV.png" group-title="RELIGION",MQTV
@@ -487,6 +497,8 @@ https://www.naajiyatv.com/live/livestream.m3u8
 
 # ==================== 🌏 INTERNASIONAL ====================
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PW2CnHH/rtbsukma.png" group-title="Brunei", RTB SUKMAINDERA 🇧🇳
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 
 
