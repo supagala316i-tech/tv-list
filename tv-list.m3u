@@ -82,6 +82,16 @@ https://youtu.be/TQJzI1mSAoQ?si=ZDZlptrtGDA5tK3O
 
 
 
+EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="    ",VTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+EXTINF:-1 tvg-logo="https://indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",INDOSIANA TV MUSIK FLOOR HD
+https://63b2dc7196c38.streamlock.net:1937/musikfolklor/ngrp:musikfolklor_all/chunklist_w894916132_b1328000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://imgur.com/MpxTMiP" tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
@@ -498,6 +508,11 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq12QBhr/Marvel-Logo-shareext.jpg" group-title="📼MOVIES📼",AVA Series Iraq
+https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.moviefone.com/legacy/assets/moviefone-website-logo.png" group-title="📼MOVIES📼",MovieFone
+https://connection3-ent-br.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="Auto;Outdoor;Sports",INTROUBLE (1080p)
 https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
@@ -980,12 +995,16 @@ https://423a4f21fb8d45a4a7e4bd304a14e2f0.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="📼MOVIES📼" tvg-logo="https://i.imgur.com/TTAGFHG.png" ,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 group-title="Umum" ,Stream 117
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="📼MOVIES📼" tvg-logo="https://iptv.urfan.web.id/logo/mbc.png" tvg-id="mbc4.ae" ,MBC 4
+
+#EXTINF:-1 group-title="📼MOVIES📼" tvg-id="mbc4.ae" tvg-logo="https://iptv.urfan.web.id/logo/mbc.png",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 group-title="📼MOVIES📼" tvg-logo="https://iptv.urfan.web.id/logo/mbc.png" tvg-id="mbc5.ae" ,MBC 5
+
+#EXTINF:-1 group-title="📼MOVIES📼" tvg-id="mbc5.ae" tvg-logo="https://iptv.urfan.web.id/logo/mbc.png",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co.com/fx4ZTzW/abctv.png" ,ABC TV 🇦🇺
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fx4ZTzW/abctv.png" group-title="Entertainment",ABC TV 🇦🇺
+https://c.mjh.nz/abc-nsw.m3u8
+
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.dens.tv/images/channel-logo/102.jpg" ,DensShowBiz (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
