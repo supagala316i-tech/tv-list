@@ -34,16 +34,23 @@ https://www.youtube.com/live/c9L4myCmsvs?si=CPAmwIrPVRfGAqLv
 
 #EXTINF:-1 tvg-id="OkezoneTV.id" tvg-name="OKEZONE" group-title="BERITA & OLAHRAGA",OKEZONE 24 Jam Live
 https://www.youtube.com/live/VF0MWMBriDg?si=X7mrZYcVBQgu3yNv
+#EXTINF:-1 tvg-id="Galeri11.youtube" tvg-name="GALERI 11" group-title="BERITA",🔴 LIVE: Iran Gempur Pasukan AS
+https://www.youtube.com/live/bVN5IyhRZj8?si=uoxFJYSEeZn9sYR-
+#EXTINF:-1 tvg-id="GarudaIDN.youtube" tvg-name="GARUDA IDN" group-title="OLAHRAGA",UPDATE LATIHAN TIMNAS VS SINGAPURA
+https://www.youtube.com/live/ab3q4nQXAt8?si=J7maafX1_6udhlLx
 
 
 
 
-#EXTINF:-1 tvg-id="JustinusLhaksana.id" tvg-name="JUSTINUS LHAKSANA" group-title="OLAHRAGA",JUSTINUS LHAKSANA LIVE
-https://www.youtube.com/live/Uc7cp-ywz3I?si=JGA0ggiv1EkwHOUx
+
 #EXTINF:-1 tvg-id="TribunSumsel.id" tvg-name="TRIBUN SUMSEL" group-title="OLAHRAGA",TRIBUN SUMSEL LIVE
 https://www.youtube.com/live/90LBdMOV0fw?si=sSR6F_TzTBZykXt3
 #EXTINF:-1 tvg-id="SripokuTV.id" tvg-name="SRIPOKU TV" group-title="OLAHRAGA",SRIPOKU TV LIVE
 https://www.youtube.com/live/RkBzqP6XO3M?si=Qvclb8eiFiYvguyp
+#EXTINF:-1 tvg-id="RansEntertainment.youtube" tvg-name="RANS ENTERTAINMENT" group-title="OLAHRAGA",FINAL PIALA PRESIDEN: PERSIB VS PERSEBAYA
+https://www.youtube.com/live/e91DjtZBwJs?si=CZy6qlKf2AlMUyAL
+#EXTINF:-1 tvg-id="TheSundayGuardian.youtube" tvg-name="THE SUNDAY GUARDIAN" group-title="OLAHRAGA",Chelsea vs Juventus LIVE
+https://www.youtube.com/live/RVzIHV-c-dM?si=9nK9gKSL8X_sH_mb
 
 
 
@@ -72,45 +79,46 @@ https://youtu.be/sJSKKalMT00?si=xyAAyTL66sn1VAc1
 #EXTINF:-1 group-title="ANIME",God Of Magical World Episode 53 Subtitle Indonesia
 https://youtu.be/TQJzI1mSAoQ?si=ZDZlptrtGDA5tK3O
 
-#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/MpxTMiP.png" tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
+
+
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/78/CNN_Indonesia_logo.svg/512px-CNN_Indonesia_logo.svg.png" tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/z1XQp3m.png" group-title="Hiburan",Magna Channel
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8e/MagnaChannel.png" group-title="Hiburan",Magna Channel
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/02.m3u8
 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/F5sQx8n.png" group-title="Berita & Umum",Nusantara TV
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nusantara_TV_logo.svg/512px-Nusantara_TV_logo.svg.png" group-title="Berita & Umum",Nusantara TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
-#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/LfW9y3p.png" group-title="Pendidikan & Kemanusiaan",DAAI TV
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DAAI_TV_Logo.svg/512px-DAAI_TV_Logo.svg.png" group-title="Pendidikan & Kemanusiaan",DAAI TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h16/02.m3u8
 
-#EXTINF:-1 tvg-id="Play.id" tvg-logo="https://i.imgur.com/nZ7XQ2L.png" group-title="Hiburan Umum",Play
+#EXTINF:-1 tvg-id="Play.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Play_TV_Indonesia_Logo.svg/512px-Play_TV_Indonesia_Logo.svg.png" group-title="Hiburan Umum",Play
 https://op-flashcon-digdayahd-1.dens.tv/h/h246/01.m3u8
 
-#EXTINF:-1 tvg-id="KnowledgeChannel.id" tvg-logo="https://i.imgur.com/QzX7WgV.png" group-title="Edukasi & Pengetahuan",Knowledge
+#EXTINF:-1 tvg-id="KnowledgeChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Knowledge_Channel_Indonesia_Logo.png/512px-Knowledge_Channel_Indonesia_Logo.png" group-title="Edukasi & Pengetahuan",Knowledge
 https://op-flashcon-digdayahd-1.dens.tv/h/h236/01.m3u8
 
-#EXTINF:-1 tvg-id="ShowBiz.id" tvg-logo="https://i.imgur.com/6ZbXQwL.png" group-title="Hiburan & Gosip",Showbiz
+#EXTINF:-1 tvg-id="ShowBiz.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Showbiz_TV_Indonesia_Logo.png/512px-Showbiz_TV_Indonesia_Logo.png" group-title="Hiburan & Gosip",Showbiz
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/01.m3u8
 
-#EXTINF:-1 tvg-id="DensFoodChannel.id" tvg-logo="https://i.imgur.com/Yt8XqR7.png" group-title="Masak & Gaya Hidup",DFC Food Channel
+#EXTINF:-1 tvg-id="DensFoodChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DFC_Logo.svg/512px-DFC_Logo.svg.png" group-title="Masak & Gaya Hidup",DFC Food Channel
 https://op-flashcon-digdayahd-1.dens.tv/h/h221/01.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://i.imgur.com/WpX8vYn.png" group-title="Publik & Umum",TVRI
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TVRI_Logo_2023.svg/512px-TVRI_Logo_2023.svg.png" group-title="Publik & Umum",TVRI
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/02.m3u8
 
-#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://i.imgur.com/hMzX7Qr.png" group-title="Lokal & Umum",Jak TV
+#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4b/Jak_TV_Logo.svg/512px-Jak_TV_Logo.svg.png" group-title="Lokal & Umum",Jak TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h218/01.m3u8
 
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.imgur.com/RsX7qWn.png" group-title="Berita & Umum",BTV
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BTV_Indonesia_logo.svg/512px-BTV_Indonesia_logo.svg.png" group-title="Berita & Umum",BTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
 
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/MvX8qTz.png" group-title="Berita",BeritaSatu
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_BeritaSatu_Media.png/512px-Logo_BeritaSatu_Media.png" group-title="Berita",BeritaSatu
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
 
-#EXTINF:-1 tvg-id="ElshintaTV.id" tvg-logo="https://i.imgur.com/HwX7qYb.png" group-title="Umum",Elshinta TV
+#EXTINF:-1 tvg-id="ElshintaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e7/ElshintaTV2019.png/512px-ElshintaTV2019.png" group-title="Umum",Elshinta TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h303/S1/mnf.m3u8
-
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="Umum",RTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
