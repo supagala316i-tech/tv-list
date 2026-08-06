@@ -38,6 +38,18 @@ https://www.youtube.com/live/VF0MWMBriDg?si=X7mrZYcVBQgu3yNv
 
 
 
+#EXTINF:-1 tvg-id="JustinusLhaksana.id" tvg-name="JUSTINUS LHAKSANA" group-title="OLAHRAGA",JUSTINUS LHAKSANA LIVE
+https://www.youtube.com/live/Uc7cp-ywz3I?si=JGA0ggiv1EkwHOUx
+#EXTINF:-1 tvg-id="TribunSumsel.id" tvg-name="TRIBUN SUMSEL" group-title="OLAHRAGA",TRIBUN SUMSEL LIVE
+https://www.youtube.com/live/90LBdMOV0fw?si=sSR6F_TzTBZykXt3
+#EXTINF:-1 tvg-id="SripokuTV.id" tvg-name="SRIPOKU TV" group-title="OLAHRAGA",SRIPOKU TV LIVE
+https://www.youtube.com/live/RkBzqP6XO3M?si=Qvclb8eiFiYvguyp
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="ANIME",God Of Magicial World【Eps. 1~20】Wan Jie Fa Shen - Sub Indo
 https://youtu.be/iqp4D3ZSj1o?si=wMwsQ7sJRxJdEpcJ
@@ -60,25 +72,7 @@ https://youtu.be/sJSKKalMT00?si=xyAAyTL66sn1VAc1
 #EXTINF:-1 group-title="ANIME",God Of Magical World Episode 53 Subtitle Indonesia
 https://youtu.be/TQJzI1mSAoQ?si=ZDZlptrtGDA5tK3O
 
-
-
-
-
-#EXTINF:-1 tvg-id="TribunSumsel.id" tvg-name="FINAL PIALA PRESIDEN - TRIBUN SUMSEL" tvg-logo="https://i.imgur.com/9Z7QxLd.png" group-title="OLAHRAGA",Persib Bandung vs Persebaya Surabaya
-https://hls.youtb.workers.dev/video/90LBdMOV0fw.m3u8
-#EXTINF:-1 tvg-id="TribunJateng.id" tvg-name="PERSIB VS PERSEBAYA" tvg-logo="https://i.imgur.com/9Z7QxLd.png" group-title="OLAHRAGA",PERSIB BANDUNG VS PERSEBAYA SURABAYA
-https://hls.youtb.workers.dev/video/DRdhFePCX1s.m3u8
-#EXTINF:-1 tvg-id="SripokuTV.id" tvg-name="PERIB VS PERSEBAYA - SRIPOKUTV" tvg-logo="https://i.imgur.com/9Z7QxLd.png" group-title="OLAHRAGA",Final Piala Presiden - Persib vs Persebaya
-https://hls.youtb.workers.dev/video/RkBzqP6XO3M.m3u8
-#EXTINF:-1 tvg-id="JustinusLhaksana.id" tvg-name="REACTION FINAL - JUSTINUS LHAKSANA" tvg-logo="https://i.imgur.com/9Z7QxLd.png" group-title="OLAHRAGA",Warga Lokal Reaction Final Piala Presiden
-https://hls.youtb.workers.dev/video/Uc7cp-ywz3I.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://imgur.com/MpxTMiP" tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/MpxTMiP.png" tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/z1XQp3m.png" group-title="Hiburan",Magna Channel
@@ -116,6 +110,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
 
 #EXTINF:-1 tvg-id="ElshintaTV.id" tvg-logo="https://i.imgur.com/HwX7qYb.png" group-title="Umum",Elshinta TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h303/S1/mnf.m3u8
+
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="Umum",RTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
