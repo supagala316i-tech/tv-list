@@ -6,59 +6,39 @@
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV" group-title="BERITA",KOMPAS TV 24 Jam Live
 https://www.youtube.com/live/DOOrIxw5xOw?si=L-Z7W1ZTs8tQO6S0
 #EXTINF:-1 tvg-id="STARPRO.id" tvg-name="STARPRO Indonesia" group-title="HIBURAN",STARPRO Indonesia 24 Jam Live
-https://www.youtube.com/live/sC4llmS31QE?si=ElHQwYG5_Zl_Hxzd
+https://www.youtube.com/live/GDZF0jqIcG8?si=lq_65RJijrJTWIVY
 
 #EXTM3U
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne HD" group-title="BERITA",tvOne 24 Jam Live
 https://www.youtube.com/live/rQJoEpzKkNk?si=W0ZYCmUOxm-udy5U
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METRO TV" group-title="BERITA",METRO TV 24 Jam Live
-https://www.youtube.com/live/AUE5iHINUIw?si=mgzhR4PqakcrI7ls
+https://www.youtube.com/live/hjNOqYN6UJo?si=j7guRwITXPz0ACg1
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" group-title="BERITA",CNN Indonesia 24 Jam Live
 https://www.youtube.com/live/PDDOkUq33Sw?si=M2Kkrco3EDp-YAY4
 #EXTINF:-1 tvg-id="IDXChannel.id" tvg-name="IDX Channel" group-title="EKONOMI & BISNIS",IDX Channel 24 Jam Live
-https://www.youtube.com/live/8dNAAe5dcqQ?si=TXpIYVa9mEo9I0ZB
+https://www.youtube.com/live/IPdDMDTE83Y?si=8baYsbxNwY98658j
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" group-title="BERITA",iNews TV 24 Jam Live
 https://www.youtube.com/live/WHTPYAvakTg?si=m_BQruMzt8vSZ0CR
 #EXTINF:-1 tvg-id="JITV.id" tvg-name="JITV Jogja Istimewa Televisi" group-title="DAERAH & INFORMASI",JITV 24 Jam Live
 https://www.youtube.com/live/HO65LoSPf6w?si=cCIZujtADCYsZcUz
 #EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-name="SINDOnews TV" group-title="BERITA",SINDOnews 24 Jam Live
-https://www.youtube.com/live/z31jg2THbWM?si=7ItcLm4T9pdQ-s-e
+https://www.youtube.com/live/2fZvLwpfM8Y?si=XxHfRf9rf2ooOxqW
 #EXTINF:-1 tvg-id="KompasTVJatim.id" tvg-name="KOMPAS TV JAWA TIMUR" group-title="BERITA DAERAH",KOMPAS TV JAWA TIMUR Live
 https://www.youtube.com/live/JMXBMEUB-w4?si=rcRTRZn23KhwdR2w
 #EXTINF:-1 tvg-id="MTATV.id" tvg-name="MTATV" group-title="RELIGI & PENGAJIAN",MTATV 24 Jam Live
 https://www.youtube.com/live/EDnKfiDlSkw?si=-t8i82z4zSScMLHi
 #EXTINF:-1 tvg-id="TVRParlemen.id" tvg-name="TVR Parlemen" group-title="BERITA & PARLEMEN",TVR Parlemen Live
-https://www.youtube.com/live/ZY1oRf7Pxz0?si=o5DXpSP5l0p4oQDM
+https://www.youtube.com/live/n7mHlsJEFgo?si=KU-ZJZWVHSz4U9pf
 #EXTINF:-1 tvg-id="KompasTVBanjarmasin.id" tvg-name="KOMPAS TV BANJARMASIN" group-title="BERITA DAERAH",KOMPAS TV BANJARMASIN Live
 https://www.youtube.com/live/c9L4myCmsvs?si=CPAmwIrPVRfGAqLv
 
 #EXTINF:-1 tvg-id="OkezoneTV.id" tvg-name="OKEZONE" group-title="BERITA & OLAHRAGA",OKEZONE 24 Jam Live
 https://www.youtube.com/live/VF0MWMBriDg?si=X7mrZYcVBQgu3yNv
-#EXTINF:-1 tvg-id="AmbyarEverywhere.id" tvg-name="Dangdut Koplo 24 Jam" group-title="MUSIK & DANGDUT",AMBYAR EVERYWHERE - Dangdut Koplo
-https://www.youtube.com/live/bLRxNhaxcXM?si=x2Ja3MeF_fnyV3nZ
 
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-name="United Nations" tvg-id="un.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/512px-Flag_of_the_United_Nations.svg.png" group-title="Berita & Internasional", United Nations
-https://www.youtube.com/live/vYRfQo6JMxc?si=--0SodkAMYvKcMpb
 
-#EXTINF:-1 tvg-name="CNA" tvg-id="cna.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CNA_Logo_2019.svg/512px-CNA_Logo_2019.svg.png" group-title="Berita & Internasional", CNA (Channel NewsAsia)
-https://www.youtube.com/live/fSUMKrxPEd8?si=L9A1c8458yOJ7tke
-
-
-
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="BERITA",Al Jazeera English
-https://www.youtube.com/live/gCNeDWCI0vo?si=giL70XhlniVrmcXN
-
-#EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-name="CNA Originals LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CNA_Logo.svg/512px-CNA_Logo.svg.png" group-title="DOKUMENTER & BERITA",CNA Originals LIVE
-https://www.youtube.com/live/fSUMKrxPEd8?si=CMgAcPAC_kwzhmRX
-
-
-
-
-#EXTM3U
 #EXTINF:-1 group-title="ANIME",God Of Magicial World【Eps. 1~20】Wan Jie Fa Shen - Sub Indo
 https://youtu.be/iqp4D3ZSj1o?si=wMwsQ7sJRxJdEpcJ
 
@@ -79,6 +59,19 @@ https://youtu.be/sJSKKalMT00?si=xyAAyTL66sn1VAc1
 
 #EXTINF:-1 group-title="ANIME",God Of Magical World Episode 53 Subtitle Indonesia
 https://youtu.be/TQJzI1mSAoQ?si=ZDZlptrtGDA5tK3O
+
+
+
+
+
+#EXTINF:-1 tvg-id="TribunSumsel.id" tvg-name="FINAL PIALA PRESIDEN - TRIBUN SUMSEL" tvg-logo="https://i.imgur.com/9Z7QxLd.png" group-title="OLAHRAGA",Persib Bandung vs Persebaya Surabaya
+https://hls.youtb.workers.dev/video/90LBdMOV0fw.m3u8
+#EXTINF:-1 tvg-id="TribunJateng.id" tvg-name="PERSIB VS PERSEBAYA" tvg-logo="https://i.imgur.com/9Z7QxLd.png" group-title="OLAHRAGA",PERSIB BANDUNG VS PERSEBAYA SURABAYA
+https://hls.youtb.workers.dev/video/DRdhFePCX1s.m3u8
+#EXTINF:-1 tvg-id="SripokuTV.id" tvg-name="PERIB VS PERSEBAYA - SRIPOKUTV" tvg-logo="https://i.imgur.com/9Z7QxLd.png" group-title="OLAHRAGA",Final Piala Presiden - Persib vs Persebaya
+https://hls.youtb.workers.dev/video/RkBzqP6XO3M.m3u8
+#EXTINF:-1 tvg-id="JustinusLhaksana.id" tvg-name="REACTION FINAL - JUSTINUS LHAKSANA" tvg-logo="https://i.imgur.com/9Z7QxLd.png" group-title="OLAHRAGA",Warga Lokal Reaction Final Piala Presiden
+https://hls.youtb.workers.dev/video/Uc7cp-ywz3I.m3u8
 
 
 
