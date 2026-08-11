@@ -4,12 +4,6 @@
 
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PE8YCX1.jpeg" tvg-id="itzplay.id" group-title="Indonesia",BeritaSatu
-https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/v0/stream.m3u8
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeritaSatu.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2R5ie25.jpeg" tvg-id="itzplay.id" group-title="Indonesia",MetroTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -43,46 +37,60 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 
 
-#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/78/CNN_Indonesia_logo.svg/512px-CNN_Indonesia_logo.svg.png" tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
+#EXTINF:-1 tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
+tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/78/CNN_Indonesia_logo.svg/512px-CNN_Indonesia_logo.svg.png"
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8e/MagnaChannel.png" group-title="Hiburan",Magna Channel
+#EXTINF:-1 tvg-id="MagnaChannel.id" group-title="Hiburan",Magna Channel
+tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8e/MagnaChannel.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/02.m3u8
 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nusantara_TV_logo.svg/512px-Nusantara_TV_logo.svg.png" group-title="Berita & Umum",Nusantara TV
+#EXTINF:-1 tvg-id="NusantaraTV.id" group-title="Berita & Umum",Nusantara TV
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nusantara_TV_logo.svg/512px-Nusantara_TV_logo.svg.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
-#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DAAI_TV_Logo.svg/512px-DAAI_TV_Logo.svg.png" group-title="Pendidikan & Kemanusiaan",DAAI TV
+#EXTINF:-1 tvg-id="DAAITV.id" group-title="Pendidikan & Kemanusiaan",DAAI TV
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DAAI_TV_Logo.svg/512px-DAAI_TV_Logo.svg.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h16/02.m3u8
 
-#EXTINF:-1 tvg-id="Play.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Play_TV_Indonesia_Logo.svg/512px-Play_TV_Indonesia_Logo.svg.png" group-title="Hiburan Umum",Play
+#EXTINF:-1 tvg-id="Play.id" group-title="Hiburan Umum",Play
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Play_TV_Indonesia_Logo.svg/512px-Play_TV_Indonesia_Logo.svg.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h246/01.m3u8
 
-#EXTINF:-1 tvg-id="KnowledgeChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Knowledge_Channel_Indonesia_Logo.png/512px-Knowledge_Channel_Indonesia_Logo.png" group-title="Edukasi & Pengetahuan",Knowledge
+#EXTINF:-1 tvg-id="KnowledgeChannel.id" group-title="Edukasi & Pengetahuan",Knowledge
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Knowledge_Channel_Indonesia_Logo.png/512px-Knowledge_Channel_Indonesia_Logo.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h236/01.m3u8
 
-#EXTINF:-1 tvg-id="ShowBiz.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Showbiz_TV_Indonesia_Logo.png/512px-Showbiz_TV_Indonesia_Logo.png" group-title="Hiburan & Gosip",Showbiz
+#EXTINF:-1 tvg-id="ShowBiz.id" group-title="Hiburan & Gosip",Showbiz
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Showbiz_TV_Indonesia_Logo.png/512px-Showbiz_TV_Indonesia_Logo.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/01.m3u8
 
-#EXTINF:-1 tvg-id="DensFoodChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DFC_Logo.svg/512px-DFC_Logo.svg.png" group-title="Masak & Gaya Hidup",DFC Food Channel
+#EXTINF:-1 tvg-id="DensFoodChannel.id" group-title="Masak & Gaya Hidup",DFC Food Channel
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DFC_Logo.svg/512px-DFC_Logo.svg.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h221/01.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TVRI_Logo_2023.svg/512px-TVRI_Logo_2023.svg.png" group-title="Publik & Umum",TVRI
+#EXTINF:-1 tvg-id="TVRI.id" group-title="Publik & Umum",TVRI
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TVRI_Logo_2023.svg/512px-TVRI_Logo_2023.svg.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/02.m3u8
 
-#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4b/Jak_TV_Logo.svg/512px-Jak_TV_Logo.svg.png" group-title="Lokal & Umum",Jak TV
+#EXTINF:-1 tvg-id="JakTV.id" group-title="Lokal & Umum",Jak TV
+tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4b/Jak_TV_Logo.svg/512px-Jak_TV_Logo.svg.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h218/01.m3u8
 
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BTV_Indonesia_logo.svg/512px-BTV_Indonesia_logo.svg.png" group-title="Berita & Umum",BTV
+#EXTINF:-1 tvg-id="BTV.id" group-title="Berita & Umum",BTV
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BTV_Indonesia_logo.svg/512px-BTV_Indonesia_logo.svg.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
 
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_BeritaSatu_Media.png/512px-Logo_BeritaSatu_Media.png" group-title="Berita",BeritaSatu
+#EXTINF:-1 tvg-id="BeritaSatu.id" group-title="Berita",BeritaSatu
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_BeritaSatu_Media.png/512px-Logo_BeritaSatu_Media.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
 
-#EXTINF:-1 tvg-id="ElshintaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e7/ElshintaTV2019.png/512px-ElshintaTV2019.png" group-title="Umum",Elshinta TV
+#EXTINF:-1 tvg-id="ElshintaTV.id" group-title="Umum",Elshinta TV
+tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e7/ElshintaTV2019.png/512px-ElshintaTV2019.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h303/S1/mnf.m3u8
 
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="Umum",RTV
+#EXTINF:-1 tvg-id="RTV.id" group-title="Umum",RTV
+tvg-logo="https://i.imgur.com/EL2BfxY.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
 
 
