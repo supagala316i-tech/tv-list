@@ -5,7 +5,6 @@
 
 
 
-
 #EXTINF:-1 tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/78/CNN_Indonesia_logo.svg/512px-CNN_Indonesia_logo.svg.png"
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
