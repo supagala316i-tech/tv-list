@@ -3,6 +3,9 @@
 # ==================== 🇮🇩 TV NASIONAL & LOKAL - LENGKAP SESUAI DAFTAR ANDA ====================
 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH16ap1.jpeg" tvg-id="CNBCIndonesia.id" group-title="Berita",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
