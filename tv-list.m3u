@@ -5,8 +5,32 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JVZdVBa.jpeg" tvg-id="itzplay.id" group-title="Indonesia", Tribunnews.Com
-https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zksc4M/hq720.jpg" group-title="NASIONAL",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/nusantaratv.png?raw=true" group-title="NASIONAL", Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rodjatv.png?raw=true" group-title="NASIONAL", Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="NASIONAL", DAAI TV (Channel Feed)
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="NASIONAL", RTV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
+#EXTINF:-1 tvg-id="BNChannel.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png", BN Channel (ChannelFeed)
+https://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="NASIONAL", Indonesiana TV (ChannelFeed)
+https://tvstreamcast.com/indonesiana.m3u8
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="NASIONAL", Garuda TV (ChannelFeed)
+https://garuda.tv/live/480p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2R5ie25.jpeg" tvg-id="itzplay.id" group-title="Indonesia",MetroTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -17,7 +41,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Moji
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EzirkhZ.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c1Nykgw.jpeg" tvg-id="itzplay.id" group-title="Indonesia",TvOne
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vWQ5HmT.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gtl9BV8.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Indonesiana TV
+https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c1Nykgw.jpeg" tvg-id="itzplay.id" group-title="Indonesia",TvOne
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -26,6 +57,24 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vWQ5HmT.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Garuda TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-id="BRTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",BRTV (720p)
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="Indonesia Channels",Indonesiana TV (ChannelFeed)
+https://tvstreamcast.com/indonesiana.m3u8
+
+#EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="lokal",Jawa Pos TV Jakarta (720p)
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTV.id" group-title="Umum",RTV
+tvg-logo="https://i.imgur.com/EL2BfxY.png"
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N19eGsM.jpeg" tvg-id="itzplay.id" group-title="Indonesia",MDTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
+
 
 
 #EXTINF:-1 tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
@@ -45,10 +94,16 @@ https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55
 #EXTINF:-1 tvg-id="GrooviaKids.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/37034d6b30d2c092aa6827a34fa145ab.png" group-title="Kids",Groovia Kids (576p)
 https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JVZdVBa.jpeg" tvg-id="itzplay.id" group-title="Indonesia", Tribunnews.Com
+https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
 
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/qxkb0cy.png" tvg-id="UChannel.id@SD" ,U Channel
 https://srs.u-channel.tv/live/uchannel-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3tt7jEP.jpeg" tvg-id="itzplay.id" group-title="Indonesia",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0cHyjN.jpeg" tvg-id="itzplay.id" group-title="Indonesia",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" tvg-id="TVRI.id@WestSulawesi" ,TVRI Sulawesi Barat (720p)
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
@@ -144,23 +199,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e7/ElshintaTV2019.png/512px-ElshintaTV2019.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h303/S1/mnf.m3u8
 
-#EXTINF:-1 tvg-id="RTV.id" group-title="Umum",RTV
-tvg-logo="https://i.imgur.com/EL2BfxY.png"
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3tt7jEP.jpeg" tvg-id="itzplay.id" group-title="Indonesia",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0cHyjN.jpeg" tvg-id="itzplay.id" group-title="Indonesia",TVRI World
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EzirkhZ.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c1Nykgw.jpeg" tvg-id="itzplay.id" group-title="Indonesia",TvOne
-https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vWQ5HmT.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Garuda TV
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gtl9BV8.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Indonesiana TV
-https://tvstreamcast.com/indonesiana.m3u8
+
+
 
 #EXTINF:-1 tvg-id="IzzahTV.id@SD" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="Religious",Izzah TV (480p)
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
@@ -181,8 +223,6 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dTVi.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_DTVI.png" group-title="General",dTVi
 https://e.siar.us/live/dtvi.m3u8
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="Indonesia Channels",Indonesiana TV (ChannelFeed)
-https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="lokal",JTV (720p)
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
@@ -196,9 +236,6 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N19eGsM.jpeg" tvg-id="itzplay.id" group-title="Indonesia",MDTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Moji
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -227,8 +264,7 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-id="JogjaTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png" group-title="lokal",Jogja TV (720p) [Not 24/7]
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="lokal",Jawa Pos TV Jakarta (720p)
-http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="lokal",Kawanua TV (720p)
 #EXTINF:-1 group-title="Umum" tvg-id="Ananda.id@HD" ,Ananda (1080p)
 https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
@@ -256,8 +292,6 @@ http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://ktv-live.com/wp-content/uploads/2024/02/logo-e1707399171762-768x407.jpg" ,KALTARA TV
 https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zksc4M/hq720.jpg" group-title="NASIONAL",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="TVRIWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/2560px-TVRI-World.svg.png",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
@@ -290,8 +324,7 @@ http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-id="JTV.id@Malang" tvg-logo="https://i.imgur.com/mIDWIQk.png",JTV Malang
 http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal" tvg-id="BRTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",BRTV (720p)
-https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Lokal" tvg-id="AtambuaTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png",Atambua TV (720p)
 http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
@@ -415,26 +448,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Magna_Channel_Logo.svg/1200px-Magna_Channel_Logo.svg.png" group-title="NASIONAL", Magna Channel HD
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/nusantaratv.png?raw=true" group-title="NASIONAL", Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rodjatv.png?raw=true" group-title="NASIONAL", Rodja TV
-https://rodjatv.com/rodjatv/live.m3u8
-
-#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="NASIONAL", DAAI TV (Channel Feed)
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="NASIONAL", RTV
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
-
-#EXTINF:-1 tvg-id="BNChannel.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png", BN Channel (ChannelFeed)
-https://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="NASIONAL", Indonesiana TV (ChannelFeed)
-https://tvstreamcast.com/indonesiana.m3u8
-
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="NASIONAL", Garuda TV (ChannelFeed)
-https://garuda.tv/live/480p.m3u8
 
 #EXTINF:-1 tvg-id="auto.astha.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astha_TV_logo.png/512px-Astha_TV_logo.png" group-title="NASIONAL", ASTHA TV
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
