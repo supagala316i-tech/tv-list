@@ -6,7 +6,9 @@
 
 
 
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Moji
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rodjatv.png?raw=true" group-title="NASIONAL", Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
@@ -30,9 +32,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N19eGsM.jpeg" tvg-id="itzplay.id" group-title="Indonesia",MDTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Moji
-https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EzirkhZ.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
