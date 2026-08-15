@@ -5,9 +5,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zksc4M/hq720.jpg" group-title="NASIONAL",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/nusantaratv.png?raw=true" group-title="NASIONAL", Nusantara TV
@@ -49,6 +46,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gtl9BV8.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zksc4M/hq720.jpg" group-title="NASIONAL",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c1Nykgw.jpeg" tvg-id="itzplay.id" group-title="Indonesia",TvOne
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
