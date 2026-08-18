@@ -168,6 +168,9 @@ https://e.siar.us/live/smtv.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png" tvg-id="SelaparangTV.id@SD" ,Selaparang TV 
 https://selaparangtv.siar.us/live/selaparangtv.m3u8
 
+#EXTINF:-1 tvg-id="TATV.id@SD" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Undefined",TATV (720p) [Not 24/7]
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/mldv8Sf.png" tvg-id="PKTV.id@SD" ,PKTV 
 https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 
