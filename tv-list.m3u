@@ -168,7 +168,7 @@ https://e.siar.us/live/smtv.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png" tvg-id="SelaparangTV.id@SD" ,Selaparang TV 
 https://selaparangtv.siar.us/live/selaparangtv.m3u8
 
-#EXTINF:-1 tvg-id="TATV.id@SD" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Undefined",TATV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TATV.id@SD" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Undefined",TATV 
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/mldv8Sf.png" tvg-id="PKTV.id@SD" ,PKTV 
@@ -280,11 +280,11 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="lokal",Kawanua TV
-#EXTINF:-1 group-title="Umum" tvg-id="Ananda.id@HD" ,Ananda (1080p)
+#EXTINF:-1 group-title="Umum" tvg-id="Ananda.id@HD" ,Ananda 
 https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
 #EXTINF:-1 tvg-id="AlWafaTarim.id@SD" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Religious",Alwafa Tarim TV 
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
-#EXTINF:-1 group-title="lokal" tvg-id="AFBTVKupang.id@SD" ,AFBTV Kupang (1080p) [Not 24/7]
+#EXTINF:-1 group-title="lokal" tvg-id="AFBTVKupang.id@SD" ,AFBTV Kupang 
 https://afbtv.siar.us/live/afbtv.m3u8
 #EXTINF:-1 group-title="Umum" tvg-id="AhsanTV.id@SD" ,Ahsan TV
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
@@ -522,7 +522,7 @@ https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 tvg-id="auto.banyumastv" tvg-name="BanyumasTV" group-title="NASIONAL" tvg-logo="https://i.imgur.com/snMxng5.png", BanyumasTV
 #EXTVLCOPT:http-referrer=https://banyumastv.com/
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
-#EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="Undefined",STV (720p) 
+#EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="Undefined",STV 
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SultraTV.id@SD" tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="Undefined",Sultra TV 
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
