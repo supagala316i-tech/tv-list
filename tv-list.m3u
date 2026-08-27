@@ -75,6 +75,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-id="BRTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",BRTV 
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tv1OIsG.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Kompas TV
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 
 #EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="lokal",Jawa Pos TV Jakarta 
