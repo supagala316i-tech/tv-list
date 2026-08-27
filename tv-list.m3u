@@ -570,6 +570,14 @@ https://tvstreamcast.com/tawaftv.m3u8
 https://www.naajiyatv.com/live/livestream.m3u8
 
 # <=================================== Malaysia =========================================>
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXUEbd3.jpeg" tvg-id="itzplay.id" group-title="Brunei Darussalam", RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x2kGlWo.jpeg" tvg-id="itzplay.id" group-title="Malaysia",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fMn6ykl.jpeg" tvg-id="itzplay.id" group-title="Malaysia",Apetito
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uY2bZEQ.jpeg" tvg-id="itzplay.id" group-title="Malaysia",Aura
@@ -585,7 +593,31 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJWmGvv.jpeg" tvg-id="itzplay.id" group-title="Malaysia",Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
+
+# ==================== 🌏 Thailand ========#
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89A56sO.jpeg" tvg-id="itzplay.id" group-title="Cambodia",Sangkem TV
+https://live.sangkemtv.com/memfs/sangkem.m3u8
+https://ip.pdtvhd.com/Khmer/streams/bayon.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4WlHizZ.jpeg" tvg-id="itzplay.id" group-title="Cambodia",Sea TV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SUQPUhW.jpeg" tvg-id="itzplay.id" group-title="Cambodia", TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sWioVuj.jpeg" tvg-id="itzplay.id" group-title="Cambodia", TVK 2 
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDqnK8p.jpeg" tvg-id="itzplay.id" group-title="Cambodia", Cambodia TV5
+https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8
+httpss://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+
+
+
+
 # ==================== 🌏 INTERNASIONAL ====================
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PW2CnHH/rtbsukma.png" group-title="Brunei", RTB SUKMAINDERA 🇧🇳
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
@@ -639,9 +671,43 @@ https://stream.pdtvhd.com/LiveApp/streams/ntvhd.m3u8
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MdFlNCO.jpeg" tvg-id="itzplay.id" group-title="Movies HBO", Netherlands | HBO
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/671616.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z36iwF9.jpeg" tvg-id="itzplay.id" group-title="Movies HBO", Netherlands | HBO 2
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/671617.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VdoyxKy.jpeg" tvg-id="itzplay.id" group-title="Kids Cartoon Network", Italia | Cartoon Network
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/105911.m3u8
+
 
 
 # <=================================== sport=========================================>
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FEnhbWQ.jpeg" tvg-id="itzplay.id" group-title="Sports ESPN", Netherlands | ESPN 1 
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069730.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3kxRlt0.jpeg" tvg-id="itzplay.id" group-title="Sports ESPN", Netherlands |  ESPN 2 
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069729.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8XqbdoR.jpeg" tvg-id="itzplay.id" group-title="Sports ESPN", Netherlands | ESPN 3 
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069728.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNgYErf.jpeg" tvg-id="itzplay.id" group-title="Sports ESPN", Netherlands | ESPN 4 
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069727.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMBh7Hf.jpeg" tvg-id="itzplay.id" group-title="Football Europe League", Serie A 🇮🇹 | Sky Sport Uno IT
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/105968.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMBh7Hf.jpeg" tvg-id="itzplay.id" group-title="Football Europe League", Serie A 🇮🇹  | Sky Sport Calcio IT
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/105860.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMBh7Hf.jpeg" tvg-id="itzplay.id" group-title="Football Europe League", Serie A 🇮🇹 | DAZN 1 IT
+http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19113/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMBh7Hf.jpeg" tvg-id="itzplay.id" group-title="Football Europe League", Serie A 🇮🇹 | Sky Sport Max IT
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/105969.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aigrtQa.jpeg" tvg-id="itzplay.id" group-title="Sports DAZN",Italia | DAZN 1
+http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19113/index.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ French 
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
