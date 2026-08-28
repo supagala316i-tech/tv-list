@@ -202,9 +202,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h221/01.m3u8
 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TVRI_Logo_2023.svg/512px-TVRI_Logo_2023.svg.png"
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/02.m3u8
 
-#EXTINF:-1 tvg-id="JakTV.id" group-title="Lokal & Umum",Jak TV
-tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4b/Jak_TV_Logo.svg/512px-Jak_TV_Logo.svg.png"
-https://op-flashcon-digdayahd-1.dens.tv/h/h218/01.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/wh75d1f.png" tvg-id="JekTV.id@SD" ,Jek TV 
+http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id" group-title="Berita & Umum",BTV
 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BTV_Indonesia_logo.svg/512px-BTV_Indonesia_logo.svg.png"
