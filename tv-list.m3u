@@ -298,26 +298,40 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="lokal",Kawanua TV
+
 #EXTINF:-1 group-title="Umum" tvg-id="Ananda.id@HD" ,Ananda 
 https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
+
 #EXTINF:-1 tvg-id="AlWafaTarim.id@SD" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Religious",Alwafa Tarim TV 
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
 #EXTINF:-1 group-title="lokal" tvg-id="AFBTVKupang.id@SD" ,AFBTV Kupang 
 https://afbtv.siar.us/live/afbtv.m3u8
+
+#EXTINF:-1 tvg-id="AjwaTV.id@SD" tvg-logo="https://i.imgur.com/JXjbUhB.png" group-title="General",Ajwa TV 
+http://ikitv.sqn.at:8000/play/a00j/index.m3u8
+
 #EXTINF:-1 group-title="Umum" tvg-id="AhsanTV.id@SD" ,Ahsan TV
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AsthaTV.id@HD" tvg-logo="https://asthatv.com/wp-content/uploads/2026/02/Logo-Astha.png" group-title="lokal",Astha TV 
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
+
 #EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="lokal",Balikpapan TV
 http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BandungTV.id@SD" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="lokal",Bandung TV 
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
 #EXTINF:-1 tvg-id="BanjarTV.id@SD" tvg-logo="https://i.imgur.com/TA76a10.png" group-title="lokal",Banjar TV 
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BantenTV.id@SD" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="lokal",Banten TV 
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BMSTV.id@SD" tvg-logo="https://i.imgur.com/snMxng5.png" group-title="lokal",Banyumas TV 
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BatamTV.id@SD" tvg-logo="https://i.imgur.com/lo7YXnW.png" group-title="lokal",Batam TV 
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 
@@ -381,8 +395,7 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/500px-Logo_MQTV.png" group-title="RELIGION",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/mqtv/mqtv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="AlImanTV.id@SD" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Religious",Al-Iman TV 
-https://tv.aliman.id/aliman/live.m3u8
+
 
 #EXTVLCOPT:http-referrer=https://indonesiana.tv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
